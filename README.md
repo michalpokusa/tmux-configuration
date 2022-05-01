@@ -9,3 +9,8 @@ curl https://raw.githubusercontent.com/michalpokusa/tmux-configuration/main/inst
 ```
 curl https://raw.githubusercontent.com/michalpokusa/tmux-configuration/main/source-tmux-configuration.sh | bash
 ```
+## Colours
+
+Can be used when styling/theming e.g. window, panes, borders or status colours
+
+![Available colours](/available_colours.png "Available colours")
